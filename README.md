@@ -62,7 +62,7 @@ For further inquiries or collaboration opportunities, please contact me via emai
 
 ### Coordinators
 Our academic and research leaders include:
-- [Mylène C. Q. Farias](http://www.ene.unb.br/mylene/)
+- [Mylène C. Q. Farias](https://userweb.cs.txstate.edu/~mylene/)
 - [André Ferreira Leite](http://lattes.cnpq.br/7275660736054053)
 - [Nilce Santos de Melo](http://lattes.cnpq.br/4611919012909264)
 - [Marco F. Caetano](https://cic.unb.br/professores/94-mfcaetano)
