@@ -26,6 +26,8 @@ Below is an overview of completed and ongoing projects under the GigaSistêmica 
 - **Publication:**
   - Correia, I. B. M. C., Ferreira, M. V. S., Chini, C. F., Dias, B. S. S., Costa, L. R., Caetano, M. F., Leite, A. F., de Melo, N. S., & Farias, M. C. Q. (2024). *Detection and segmentation of carotid atheroma calcification in dental panoramic radiographs using a hybrid deep learning model*. Submitted to **IEEE Journal of Biomedical and Health Informatics**.
 - **Repository:** Coming soon.
+- 
+![](https://www.imghippo.com/i/VCdR6941eUw.png)
 
 ---
 
