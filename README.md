@@ -56,7 +56,7 @@ The GigaSistêmica project continues to evolve, with current efforts focused on:
 ---
 
 ### Contact
-For further inquiries or collaboration opportunities, please contact Bruno Scholles Dias via email: [brunoscholles98@gmail.com](mailto:brunoscholles98@gmail.com). Additionally, you can contact me via WhatsApp at +351 913 686 499.
+For further inquiries or collaboration opportunities, please contact me via email: [brunoscholles98@gmail.com](mailto:brunoscholles98@gmail.com) or one of the Coordinators bellow. Additionally, you can reach me via WhatsApp at +351 913 686 499.
 
 ---
 
