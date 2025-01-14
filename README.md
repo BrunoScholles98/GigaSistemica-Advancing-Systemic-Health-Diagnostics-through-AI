@@ -48,6 +48,12 @@ Below is an overview of completed and ongoing projects under the GigaSistêmica 
 
 ---
 
+### Data Request
+
+If you wish to access any of the datasets associated with the projects described in this repository, please get in touch as detailed in the **Contact** section. All requests will be evaluated to ensure compliance with ethical standards and data-sharing agreements.
+
+---
+
 ### Future Directions
 The GigaSistêmica project continues to evolve, with current efforts focused on:
 - **Fine-tuning a Large Language Model (LLM):** Development of a multimodal system that integrates imaging and text-based data for comprehensive systemic health analysis. This project is in its early stages.
