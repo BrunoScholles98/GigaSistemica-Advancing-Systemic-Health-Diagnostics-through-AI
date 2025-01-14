@@ -39,7 +39,7 @@ Below is an overview of completed and ongoing projects under the GigaSistêmica 
 
 ---
 
-### 4. Gunshot Wounds Classification with Deep Learning
+### 4. Gunshot Wounds Classification with Deep Learning (Collaboration)
 - **Description:** This project applied deep learning models to assist in forensic investigations by classifying gunshot wounds. While not directly developed within GigaSistêmica, the project benefited from its collaboration. Bruno Scholles contributed as a developer and researcher in artificial intelligence, and André Leite provided guidance as the advisor to the project's lead author, Renato Lira. The system developed is capable of distinguishing between entry and exit wounds and determining the medico-legal shooting distance (MLSD) from digital images of real forensic cases. By leveraging convolutional neural networks, the project demonstrates how artificial intelligence can complement forensic experts in analyzing complex cases with increased speed and precision. This initiative represents a significant step forward in integrating AI tools within forensic pathology.
 
 - **Publication:**
