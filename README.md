@@ -13,19 +13,13 @@ Below is an overview of completed and ongoing projects under the GigaSistêmica 
   GigaXReport is a Flask-based web application that unifies three advanced AI pipelines for medical imaging analysis:
   1. **Osteoporosis Detection:** Uses an EfficientNet-B7 CNN (pretrained on mandibular cortical morphology) with Grad-CAM saliency maps to classify panoramic radiographs into “Healthy” vs. “Osteoporotic” categories.  
   2. **Carotid Atheroma Analysis:** Applies a FastViT classifier to screen for atheroma presence, a Faster R-CNN ONNX model for localization, and a DC-UNet segmentation network to precisely delineate calcifications.  
-  3. **Multimodal Reporting (MedGemma):** Leverages Google’s MedGemma vision-language model to generate detailed radiological reports in English or Portuguese, embedding the AI outputs verbatim under sections such as “Bone Health” and “Atheroma Diagnosis.”  
+  3. **Multimodal Reporting (MedGemma):** Leverages Google’s MedGemma Small Language Model (SLM), a vision-language model, to generate detailed radiological reports in English or Portuguese, embedding the AI outputs verbatim under sections such as “Bone Health” and “Atheroma Diagnosis.”  
   The app produces an interactive combined visualization (original image, Grad-CAM overlay, detection/segmentation results) and compiles a professional PDF report with embedded figures and formatted text.
-
-- **Key Features:**
-  - **Lazy model loading** with `functools.lru_cache` for efficiency.
-  - **Rolling-ball background subtraction** for image preprocessing.
-  - **Grad-CAM saliency** for interpretability of osteoporosis predictions.
-  - **Hybrid pipeline** for opportunistic screening of carotid calcifications.
-  - **Multimodal LLM reporting** with on-the-fly PDF generation via ReportLab.
-  - **Bilingual support** (English/Português) driven by user selection.
 
 - **Repository:**  
   [GitHub: BrunoScholles98/GigaXReport-A-Multimodal-Diagnostic-Framework-with-Specialized-Language-Models-SLMs](https://github.com/BrunoScholles98/GigaXReport-A-Multimodal-Diagnostic-Framework-with-Specialized-Language-Models-SLMs/blob/main/README.md)
+
+![](https://raw.githubusercontent.com/BrunoScholles98/GigaXReport-A-Multimodal-Diagnostic-Framework-with-Specialized-Language-Models-SLMs/refs/heads/main/static/MainPage_Example.png)
 
 ---
 
