@@ -17,7 +17,7 @@ Below is an overview of completed and ongoing projects under the GigaSistêmica 
   The app produces an interactive combined visualization (original image, Grad-CAM overlay, detection/segmentation results) and compiles a professional PDF report with embedded figures and formatted text.
 
 - **Repository:**  
-  [GitHub: BrunoScholles98/GigaXReport-A-Multimodal-Diagnostic-Framework-with-Specialized-Language-Models-SLMs](https://github.com/BrunoScholles98/GigaXReport-A-Multimodal-Diagnostic-Framework-with-Specialized-Language-Models-SLMs/blob/main/README.md)
+  [GitHub: BrunoScholles98/GigaXReport-A-Multimodal-Diagnostic-Framework-with-Specialized-Language-Models-SLMs](https://github.com/BrunoScholles98/GigaXReport-A-Multimodal-Diagnostic-Framework-with-Specialized-Language-Models-SLMs/tree/main)
 
 ![](https://raw.githubusercontent.com/BrunoScholles98/GigaXReport-A-Multimodal-Diagnostic-Framework-with-Specialized-Language-Models-SLMs/refs/heads/main/static/MainPage_Example.png)
 
