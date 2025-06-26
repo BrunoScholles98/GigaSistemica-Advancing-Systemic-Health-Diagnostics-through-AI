@@ -31,7 +31,7 @@ Below is an overview of completed and ongoing projects under the GigaSistêmica 
   Dias, B. S. S., Querrer, R., Figueiredo, P. T., Leite, A. F., de Melo, N. S., Costa, L. R., Caetano, M. F., & Farias, M. C. Q. (2025). *Osteoporosis screening: Leveraging EfficientNet with complete and cropped facial panoramic radiography imaging*. **Biomedical Signal Processing and Control**, *100*, 107031. [https://doi.org/10.1016/j.bspc.2024.107031](https://doi.org/10.1016/j.bspc.2024.107031).
 
 - **Repository:**  
-  [Deep-Learning-for-Bone-Health-Classification-through-X-ray-Imaging](https://github.com/BrunoScholles98/Deep-Learning-for-Bone-Health-Classification-through-X-ray-Imaging)
+  [GitHub: BrunoScholles98/Deep-Learning-for-Bone-Health-Classification-through-X-ray-Imaging](https://github.com/BrunoScholles98/Deep-Learning-for-Bone-Health-Classification-through-X-ray-Imaging)
 
 ![Osteoporosis Screening](https://i.ibb.co/gMB952P5/OsteoMe.png)
 
@@ -47,7 +47,7 @@ Below is an overview of completed and ongoing projects under the GigaSistêmica 
   Correia, I. B. M. C., Ferreira, M. V. S., Chini, C. F., Dias, B. S. S., Costa, L. R., Caetano, M. F., Leite, A. F., de Melo, N. S., & Farias, M. C. Q. (2024). *Detection and segmentation of carotid atheroma calcification in dental panoramic radiographs using a hybrid deep learning model*. Submitted to **IEEE Journal of Biomedical and Health Informatics**.
 
 - **Repository:**  
-  [GigaSistemica-Atheroma (GitHub)](https://github.com/igorbispo99/GigaSistemica-Atheroma/tree/main)
+  [GitHub: igorbispo99/GigaSistemica-Atheroma)](https://github.com/igorbispo99/GigaSistemica-Atheroma/tree/main)
 
 ![Atheroma Segmentation](https://i.ibb.co/SXGY453X/Ateroma.png)
 
@@ -72,7 +72,7 @@ Below is an overview of completed and ongoing projects under the GigaSistêmica 
   Lira, R. Q. N., Sousa, L. G. M., Pinho, M. L. M., Lima, R. C. P. S. A., Freitas, P. G., Dias, B. S. S., Souza, A. C. B., & Leite, A. F. (2024). *Deep learning-based human gunshot wounds classification*. **International Journal of Legal Medicine**, Published 6 November 2024. [https://doi.org/10.1007/s00414-024-03355-4](https://doi.org/10.1007/s00414-024-03355-4).
 
 - **Repository:**  
-  [leguwoi (GitLab)](https://gitlab.com/lisa-unb/leguwoi)
+  [GitLab: leguwoi](https://gitlab.com/lisa-unb/leguwoi)
 
 ---
 
